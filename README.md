@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gvanhorne
+- 👀 I’m interested in web development and software
+- 🌱 I’m currently learning pixel art
+- 💞️ I’m looking to collaborate on front-end design
+- 📫 How to reach me: gvanhorne@telus.net
