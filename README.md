@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Greg
 - 👀 I’m interested in web development and design
 - 🌱 I’m currently completing my BSc in Computer Science
-- 🚀 I've worked as a web developer for the Canadian Space Agency, as well as the BC Ministry of Social Development and Poverty Reduction 🏠
+- 👨‍💼 I've worked as a web developer for:
+  - 🚀 The Canadian Space Agency
+  - 🏠 BC Ministry of Social Development and Poverty Reduction
+- 🎓 I also hold a BA in English
 - 📫 How to reach me: gvanhorne@telus.net
