@@ -5,4 +5,3 @@
   - 🚀 The Canadian Space Agency
   - 🏠 BC Ministry of Social Development and Poverty Reduction
 - 🎓 I also hold a BA in English
-- 📫 How to reach me: gvanhorne@telus.net
