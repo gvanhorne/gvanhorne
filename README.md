@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Greg
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently completing my BSc in Computer Science
-- 👨‍💼 I've worked as a web developer for:
-  - 🚀 The Canadian Space Agency
-  - 🏠 BC Ministry of Social Development and Poverty Reduction
-- 🎓 I also hold a BA in English
+- 👀 I’m interested in web development, design, and data visualization
+- 🎓 I have a BSc in Computer Science, and a BA in English
+- 👨‍💼 I'm currently working as a web developer for the BC Ministry of Social Development and Poverty Reduction
